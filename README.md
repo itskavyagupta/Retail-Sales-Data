@@ -1,3 +1,4 @@
-# sales-data-python
+**Project Title:** Python Programming and Sales Data Analysis
 
-The project is based on developing python programs using fundamental concepts like data structures, loops, functions, etc. It also makes use of libraries like pandas and numpy that are used for machine learning. It involves writing programs like checking if an integer is prime or not, calculating the area of a circle, writing function, etc. The project also involves reading sales data, understanding its shape, various features, statistical summary, and performing data manipulation.
+**Project Description:**
+This project focuses on developing Python programs using fundamental concepts such as data structures, loops, and functions, along with libraries like Pandas and NumPy for machine learning. It includes tasks such as checking prime numbers, calculating circle areas, and writing custom functions. Additionally, the project involves analyzing sales data, including understanding its structure, features, and statistical summaries, and performing data manipulation. Through this project, participants gain hands-on experience in Python programming and data analysis, preparing them for real-world applications.
