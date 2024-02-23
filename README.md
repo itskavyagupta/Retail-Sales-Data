@@ -1,4 +1,4 @@
 **Project Title:** Retail Marketing Exploratory Data Analysis and Preprocessing
 
-**Project Description:**
+**Project Description:** 
 This project focuses on leveraging exploratory data analysis (EDA) and data preprocessing techniques to analyze retail marketing campaigns and their outcomes. Through the utilization of univariate and bivariate analysis, visualization methods, and data manipulation techniques, the project aims to uncover insights into consumer purchasing patterns. Special attention is given to handling missing values, treating garbage values, and preparing a comprehensive report for the management team. Skills covered include data visualization using Seaborn, data cleaning, and univariate and bivariate analysis in Python. Participants will gain valuable experience in data-driven decision-making processes for retail marketing initiatives.
